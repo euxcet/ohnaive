@@ -1,1 +1,3 @@
 # ohnaive
+
+A simple website.
